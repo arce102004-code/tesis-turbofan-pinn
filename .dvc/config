@@ -2,3 +2,5 @@
     remote = mi_drive
 ['remote "mi_drive"']
     url = gdrive://1690H_ZCx0EK4Kk9kQ62Sp1b22d-iaD5w
+    gdrive_use_service_account = true
+    gdrive_service_account_json_file_path = ../tesis-dvc-turbofan-73cb89d5a970.json

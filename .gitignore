@@ -1,1 +1,30 @@
-/N-CMAPSS_DS02-006.h5
+tesis-dvc-turbofan-73cb89d5a970.json
+*.json
+*.keras
+*.pkl
+*.keras
+*.pkl
+*.h5
+
+# Entornos virtuales
+venv/
+env/
+.env/
+torch-env/
+.conda/
+
+# Archivos de PyTorch y modelos
+*.pt
+*.pth
+*.ckpt
+
+# Caché de Python y Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Datos y logs
+*.npz
+*.npy
+*.parquet
+logs/
